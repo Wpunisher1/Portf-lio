@@ -1,5 +1,14 @@
 ![Angular Portfolio - Google Chrome 09_12_2024 13_22_08](https://github.com/user-attachments/assets/0280a6f1-4c09-4558-b602-3bb665dfaaa9)
 
+![Angular Portfolio - Google Chrome 29_12_2024 16_19_24](https://github.com/user-attachments/assets/8781cc7e-ab41-4858-81a7-d0b03c0424a1)
+
+![Angular Portfolio - Google Chrome 29_12_2024 16_20_10](https://github.com/user-attachments/assets/879a83d0-a032-458b-a0f7-f7e5eae99ad6)
+
+![Angular Portfolio - Google Chrome 29_12_2024 16_19_41](https://github.com/user-attachments/assets/1ea27049-c2ae-4853-a6a2-278df1a20bbf)
+
+
+
+
 
 # CursoAngularPortfolio
 
