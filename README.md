@@ -1,3 +1,6 @@
+![Angular Portfolio - Google Chrome 09_12_2024 13_22_08](https://github.com/user-attachments/assets/0280a6f1-4c09-4558-b602-3bb665dfaaa9)
+
+
 # CursoAngularPortfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
